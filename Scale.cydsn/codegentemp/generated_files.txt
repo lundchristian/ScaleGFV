@@ -46,6 +46,11 @@
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\SCL_1_aliases.h" value="HEADER;;;;;SCL_1" />
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\SCL_1.c" value="SOURCE_C;CortexM3;;;;SCL_1" />
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\SCL_1.h" value="HEADER;;;;;SCL_1" />
+  <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\Pin_1_aliases.h" value="HEADER;;;;;Pin_1" />
+  <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\Pin_1.c" value="SOURCE_C;CortexM3;;;;Pin_1" />
+  <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\Pin_1.h" value="HEADER;;;;;Pin_1" />
+  <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\isr_pin_1.c" value="SOURCE_C;CortexM3;;;;isr_pin_1" />
+  <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\isr_pin_1.h" value="HEADER;;;;;isr_pin_1" />
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\UART_1_IntClock.c" value="SOURCE_C;CortexM3;;;;UART_1_IntClock" />
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\UART_1_IntClock.h" value="HEADER;;;;;UART_1_IntClock" />
   <file name="C:\au\gsv\lab3\Scale.cydsn\codegentemp\ADC_SAR_1_IRQ.c" value="SOURCE_C;CortexM3;;;;ADC_SAR_1_IRQ" />

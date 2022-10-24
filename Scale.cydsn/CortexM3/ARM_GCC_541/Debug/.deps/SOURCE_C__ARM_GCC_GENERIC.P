@@ -1,10 +1,16 @@
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.c : 
+C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_pin_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/project.h C:/au/gsv/lab3/Scale.cydsn/main.c C:/au/gsv/lab3/Scale.cydsn/print.h C:/au/gsv/lab3/Scale.cydsn/ssd1306.h C:/au/gsv/lab3/Scale.cydsn/weight.h 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h : 
 
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h : 
+
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h : 
 
@@ -12,175 +18,29 @@ C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h :
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_ExtVref.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_INT.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_INT.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_INT.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_IRQ.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_PM.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_PM.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_PM.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_theACLK.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Cm3Start.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.c : 
-
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED_BOOT.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_BOOT.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_1.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_BOOT.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED_INT.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_INT.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_INT.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED_MASTER.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_MASTER.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_MASTER.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED_PM.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PM.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PM.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/I2COLED_SLAVE.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_SLAVE.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_SLAVE.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_ADC_in.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.c : 
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_1_aliases.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in_aliases.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/SCL_1.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.c : 
-
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/SDA_1.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.c : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.c : 
-
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_BOOT.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_BOOT.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_BOOT.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_INT.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_INT.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_INT.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_IntClock.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_PM.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_PM.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_PM.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cymetadata.c 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cymetadata.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyutils.c 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyutils.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/isr_uart_rx.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.c C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/au/gsv/lab3/Scale.cydsn/cyapicallbacks.h 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.c : 
-
-C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/project.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/au/gsv/lab3/Scale.cydsn/main.c C:/au/gsv/lab3/Scale.cydsn/ssd1306.h 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
 
@@ -194,17 +54,35 @@ C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmFunc.h :
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
 
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_pin_1.h : 
+
+C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/project.h : 
 
 C:/au/gsv/lab3/Scale.cydsn/main.c : 
 
+C:/au/gsv/lab3/Scale.cydsn/print.h : 
+
 C:/au/gsv/lab3/Scale.cydsn/ssd1306.h : 
 
-C:/au/gsv/lab3/Scale.cydsn/CortexM3/ARM_GCC_541/Debug/ssd1306.o : C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/project.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_ExtVref_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyDmac.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyFlash.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CyLib.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/CySpc.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/I2COLED_PVT.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/Pin_ADC_in_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SCL_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/SDA_1_aliases.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyPm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cypins.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/cytypes.h C:/au/gsv/lab3/Scale.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/au/gsv/lab3/Scale.cydsn/font.h C:/au/gsv/lab3/Scale.cydsn/ssd1306.c C:/au/gsv/lab3/Scale.cydsn/ssd1306.h 
-
-C:/au/gsv/lab3/Scale.cydsn/font.h : 
-
-C:/au/gsv/lab3/Scale.cydsn/ssd1306.c : 
+C:/au/gsv/lab3/Scale.cydsn/weight.h : 
 
