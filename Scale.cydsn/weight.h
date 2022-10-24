@@ -24,33 +24,36 @@ CY_ISR(ISR_pin_1_handler)
     globalTARE = globalWeight;
 }
 
-// Returns a mean measurement
+// Returns a float mean measurement in kilograms
 float convertV2G(void)
 {
-    uint16_t res16 = 0;
-    float temp32 = 0;
-    float res32 = 0;
+    uint16_t res16 = 0; // 16-bit to fetch measurement
+    float temp32 = 0; // 32-bit to add all measurements
+    float res32 = 0; // 32-bit to return mean of all measurements
     
+    // Loop measurement ten times to get a more stable result
     for (uint8_t i = 0; i < loop; i++)
     {
+        // Await to fetch measurement until last conversion is complete
         if (ADC_SAR_1_IsEndConversion(ADC_SAR_1_WAIT_FOR_RESULT))
         {
-            res16 = ADC_SAR_1_GetResult16();
-            if (res16 & 0x0800)
+            res16 = ADC_SAR_1_GetResult16(); // Fetch measurement in 16-bit
+            if (res16 & 0x0800) // Check for negative value in 2s-complement
             {
-                temp32 = ~res16;
-                temp32++;
-                temp32 *= -1;
+                temp32 = ~res16; // Bit-flip
+                temp32++; // Add one
+                temp32 *= -1; // Multiply by -1 to create negative value
             }
         }
-        temp32 = res16;
-        res32 += temp32;
+        temp32 = res16; // Push 16-bit to 32-bit float if not negative 2s-complement
+        res32 += temp32; // Add one measurement to 32-bit float
     }
     
+    globalWeight = res32/loop; // Set globalweight to enable TARE functionality
     
-    globalWeight = res32/loop;
+    res32 = (res32/loop) - globalTARE; // Adjust return value to TARE null-point value
     
-    res32 = (res32/loop) - globalTARE;
-    
+    // Divide by 3.245 to get precise conversion to grams
+    // Divide by 1000 to get conversion to kilograms
     return res32/3.245/1000;
 }
