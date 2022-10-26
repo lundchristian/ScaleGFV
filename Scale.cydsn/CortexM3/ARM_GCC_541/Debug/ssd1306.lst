@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
   29:ssd1306.c     **** AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
   30:ssd1306.c     **** IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
   31:ssd1306.c     **** ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 2
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 2
 
 
   32:ssd1306.c     **** LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
   86:ssd1306.c     **** 
   87:ssd1306.c     **** static uint32 display_write_buf( uint8* buf, uint16_t size );
   88:ssd1306.c     **** 
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 3
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 3
 
 
   89:ssd1306.c     **** void gfx_init( int16_t width, int16_t height );
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  143:ssd1306.c     ****         SSD1306_SETVCOMDETECT,
  144:ssd1306.c     ****         0x40,
  145:ssd1306.c     ****         SSD1306_DISPLAYALLON_RESUME,
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 4
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 4
 
 
  146:ssd1306.c     ****         SSD1306_NORMALDISPLAY,
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
   49 0018 7047     		bx	lr
   50              	.L3:
  178:ssd1306.c     ****         case WHITE: 
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 5
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 5
 
 
  179:ssd1306.c     ****             PIXEL_ON(x,y);
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
   98 0062 0B46     		mov	r3, r1
   99 0064 0029     		cmp	r1, #0
  100 0066 00DA     		bge	.L8
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 6
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 6
 
 
  101 0068 CB1D     		adds	r3, r1, #7
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  212:ssd1306.c     ****     uint8 cmdbuf[] = {
  213:ssd1306.c     ****         0x00,  
  214:ssd1306.c     ****         0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 7
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 7
 
 
  215:ssd1306.c     ****     };
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  153 0014 00EBC510 		add	r0, r0, r5, lsl #7
  154              	.LVL13:
  155 0018 444F     		ldr	r7, .L41
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 8
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 8
 
 
  156 001a 0744     		add	r7, r7, r0
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  198 004e 00D9     		bls	.L18
  257:ssd1306.c     ****                     ubit = 7;
  199              		.loc 1 257 0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 9
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 9
 
 
  200 0050 0725     		movs	r5, #7
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  245 0090 03D0     		beq	.L24
  246 0092 34B1     		cbz	r4, .L25
  247 0094 022C     		cmp	r4, #2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 10
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 10
 
 
  248 0096 09D0     		beq	.L26
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  277:ssd1306.c     ****             }
  278:ssd1306.c     ****             
  279:ssd1306.c     ****             ptr += DISPLAYWIDTH;
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 11
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 11
 
 
  292              		.loc 1 279 0
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  335 00fe 012C     		cmp	r4, #1
  336 0100 03D0     		beq	.L35
  337 0102 34B1     		cbz	r4, .L36
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 12
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 12
 
 
  338 0104 022C     		cmp	r4, #2
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  297:ssd1306.c     **** }
  298:ssd1306.c     **** 
  299:ssd1306.c     **** 
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 13
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 13
 
 
  300:ssd1306.c     **** 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  354:ssd1306.c     **** // Return the size of the display (per current rotation)
  355:ssd1306.c     **** int16_t gfx_width(void){
  356:ssd1306.c     ****     return _width;
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 14
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 14
 
 
  357:ssd1306.c     **** }
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  387              		@ frame_needed = 0, uses_anonymous_args = 0
  388              		@ link register save eliminated.
  389              	.LVL38:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 15
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 15
 
 
  408:ssd1306.c     **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  432 0042 7047     		bx	lr
  433              	.LVL44:
  434              	.L46:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 16
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 16
 
 
  407:ssd1306.c     **** 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  438:ssd1306.c     **** static void gfx_hvLine( int16_t x1, int16_t y1, int16_t x2, int16_t y2, uint16_t color ){
  470              		.loc 1 438 0
  471              		.cfi_startproc
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 17
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 17
 
 
  472              		@ args = 4, pretend = 0, frame = 8
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  517 003e 9A42     		cmp	r2, r3
  518 0040 60DA     		bge	.L53
  448:ssd1306.c     ****             return;
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 18
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 18
 
 
  449:ssd1306.c     ****         if( y1 < 0 || y1 >= WIDTH || y2 < 0 || y2 >= WIDTH )
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  567 0092 9A42     		cmp	r2, r3
  568 0094 36DA     		bge	.L53
  569              	.LVL50:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 19
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 19
 
 
  570              	.L58:
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  613 00de BDF80820 		ldrh	r2, [sp, #8]
  614 00e2 ADF80C20 		strh	r2, [sp, #12]	@ movhi
  615 00e6 ADF80830 		strh	r3, [sp, #8]	@ movhi
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 20
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 20
 
 
  616              	.LVL59:
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  665 0004 0E46     		mov	r6, r1
  666              	.LVL63:
  161:ssd1306.c     ****     
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 21
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 21
 
 
  667              		.loc 1 161 0
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  713              		.size	display_write_buf, .-display_write_buf
  714              		.section	.text.display_clear,"ax",%progbits
  715              		.align	2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 22
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 22
 
 
  716              		.global	display_clear
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  200:ssd1306.c     ****         0x00,  
  766              		.loc 1 200 0
  767 0004 0023     		movs	r3, #0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 23
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 23
 
 
  768 0006 8DF80430 		strb	r3, [sp, #4]
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  217:ssd1306.c     **** }
  816              		.loc 1 217 0 is_stmt 1 discriminator 4
  817 0016 0221     		movs	r1, #2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 24
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 24
 
 
  818 0018 01A8     		add	r0, sp, #4
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  866 0028 03B0     		add	sp, sp, #12
  867              		.cfi_def_cfa_offset 4
  868              		@ sp needed
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 25
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 25
 
 
  869 002a 5DF804FB 		ldr	pc, [sp], #4
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  919              	display_scroll:
  920              	.LFB72:
  310:ssd1306.c     ****    
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 26
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 26
 
 
  921              		.loc 1 310 0
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  971              		@ args = 0, pretend = 0, frame = 0
  972              		@ frame_needed = 0, uses_anonymous_args = 0
  973              		@ link register save eliminated.
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 27
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 27
 
 
  974              	.LVL88:
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1019              		.thumb
  1020              		.thumb_func
  1021              		.type	display_init, %function
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 28
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 28
 
 
  1022              	display_init:
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1070              	.L94:
  1071 0038 00000000 		.word	.LANCHOR1
  1072 003c 00000000 		.word	.LANCHOR2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 29
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 29
 
 
  1073              		.cfi_endproc
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1123              		.size	gfx_height, .-gfx_height
  1124              		.section	.text.gfx_rotation,"ax",%progbits
  1125              		.align	2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 30
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 30
 
 
  1126              		.global	gfx_rotation
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1175              		.section	.text.gfx_setTextSize,"ax",%progbits
  1176              		.align	2
  1177              		.global	gfx_setTextSize
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 31
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 31
 
 
  1178              		.thumb
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1227              	.L115:
  1228              		.align	2
  1229              	.L114:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 32
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 32
 
 
  1230 0008 00000000 		.word	.LANCHOR1
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1280 0008 00000000 		.word	wrap
  1281              		.cfi_endproc
  1282              	.LFE81:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 33
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 33
 
 
  1283              		.size	gfx_setTextWrap, .-gfx_setTextWrap
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1330 002a 5A80     		strh	r2, [r3, #2]	@ movhi
  402:ssd1306.c     ****         break;
  1331              		.loc 1 402 0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 34
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 34
 
 
  1332 002c 034A     		ldr	r2, .L127+8
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1381              		.loc 1 429 0 discriminator 3
  1382 0020 0949     		ldr	r1, .L132
  1383              	.LVL105:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 35
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 35
 
 
  1384 0022 B1F90410 		ldrsh	r1, [r1, #4]
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1432              		.cfi_offset 6, -28
  1433              		.cfi_offset 7, -24
  1434              		.cfi_offset 8, -20
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 36
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 36
 
 
  1435              		.cfi_offset 9, -16
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1478              		.loc 1 483 0
  1479 0046 C845     		cmp	r8, r9
  1480 0048 04DD     		ble	.L138
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 37
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 37
 
 
  1481 004a 3A46     		mov	r2, r7
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1522              	.LVL127:
  495:ssd1306.c     ****     int16_t ystep;
  496:ssd1306.c     ****     if( y0 < y1 ){
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 38
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 38
 
 
  1523              		.loc 1 496 0
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1565 00b8 002C     		cmp	r4, #0
  1566 00ba 05DA     		bge	.L144
  509:ssd1306.c     ****             y0 += ystep;
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 39
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 39
 
 
  1567              		.loc 1 509 0
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1613              		.cfi_offset 4, -24
  1614              		.cfi_offset 5, -20
  1615              		.cfi_offset 6, -16
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 40
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 40
 
 
  1616              		.cfi_offset 7, -12
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1664 0050 02B0     		add	sp, sp, #8
  1665              		.cfi_def_cfa_offset 24
  1666              		@ sp needed
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 41
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 41
 
 
  1667 0052 BDE8F081 		pop	{r4, r5, r6, r7, r8, pc}
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1715 002a 2046     		mov	r0, r4
  1716 002c FFF7FEFF 		bl	gfx_drawLine
  1717              	.LVL153:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 42
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 42
 
 
  526:ssd1306.c     ****         for( i = x ; i < x+w ; i++ ){
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1761              		.cfi_endproc
  1762              	.LFE88:
  1763              		.size	gfx_fillRect, .-gfx_fillRect
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 43
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 43
 
 
  1764 0066 00BF     		.section	.text.gfx_drawCircle,"ax",%progbits
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  545:ssd1306.c     ****     gfx_drawPixel( x0 , y0+r, color );
  1808              		.loc 1 545 0
  1809 0022 1FFA81FB 		uxth	fp, r1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 44
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 44
 
 
  1810 0026 05EB0B01 		add	r1, r5, fp
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  552:ssd1306.c     ****             ddF_y += 2;
  1856              		.loc 1 552 0
  1857 0076 059B     		ldr	r3, [sp, #20]
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 45
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 45
 
 
  1858 0078 0233     		adds	r3, r3, #2
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1905              	.LVL181:
  560:ssd1306.c     ****         gfx_drawPixel( x0 + x, y0 - y, color );
  1906              		.loc 1 560 0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 46
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 46
 
 
  1907 00ca C6EB0B08 		rsb	r8, r6, fp
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  1955 012c 029B     		ldr	r3, [sp, #8]
  1956 012e 9945     		cmp	r9, r3
  1957 0130 9BDB     		blt	.L163
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 47
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 47
 
 
  566:ssd1306.c     ****     }
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2005 0024 2A46     		mov	r2, r5
  2006 0026 5146     		mov	r1, r10
  2007 0028 4846     		mov	r0, r9
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 48
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 48
 
 
  2008 002a FFF7FEFF 		bl	gfx_drawLine
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2055 000e 364C     		ldr	r4, .L180
  2056 0010 B4F90240 		ldrsh	r4, [r4, #2]
  2057 0014 8442     		cmp	r4, r0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 49
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 49
 
 
  2058 0016 63DD     		ble	.L167
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2097 0056 00E0     		b	.L170
  2098              	.LVL195:
  2099              	.L178:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 50
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 50
 
 
  589:ssd1306.c     ****             line = 0x0;
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2142 009e 09D1     		bne	.L175
  602:ssd1306.c     ****                     gfx_drawPixel( x+i, y+j, bg );
  2143              		.loc 1 602 0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 51
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 51
 
 
  2144 00a0 04EB0A01 		add	r1, r4, r10
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  608:ssd1306.c     ****         }
  609:ssd1306.c     ****     }
  610:ssd1306.c     **** }
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 52
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 52
 
 
  2189              		.loc 1 610 0 is_stmt 1
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2236              		.cfi_def_cfa_offset 12
  2237              		.cfi_offset 4, -12
  2238              		.cfi_offset 5, -8
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 53
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 53
 
 
  2239              		.cfi_offset 14, -4
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2283              		.loc 1 626 0
  2284 006c 03B0     		add	sp, sp, #12
  2285              		.cfi_def_cfa_offset 12
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 54
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 54
 
 
  2286              		@ sp needed
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2332              	.LVL216:
  2333              	.L190:
  632:ssd1306.c     ****         gfx_write( s[i] );
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 55
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 55
 
 
  2334              		.loc 1 632 0 is_stmt 0 discriminator 1
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2382 0004 22       		.byte	34
  2383 0005 00       		.byte	0
  2384 0006 07       		.byte	7
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 56
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 56
 
 
  2385 0007 00       		.space	1
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2439 003a 7E       		.byte	126
  2440 003b 3C       		.byte	60
  2441 003c 18       		.byte	24
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 57
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 57
 
 
  2442 003d 1C       		.byte	28
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2496 0073 5A       		.byte	90
  2497 0074 7F       		.byte	127
  2498 0075 3E       		.byte	62
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 58
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 58
 
 
  2499 0076 1C       		.byte	28
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2553 00ac 1C       		.byte	28
  2554 00ad 2A       		.byte	42
  2555 00ae 08       		.byte	8
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 59
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 59
 
 
  2556 00af 08       		.byte	8
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2610 00e5 20       		.byte	32
  2611 00e6 50       		.byte	80
  2612 00e7 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 60
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 60
 
 
  2613 00e8 08       		.byte	8
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2667 011e 72       		.byte	114
  2668 011f 49       		.byte	73
  2669 0120 49       		.byte	73
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 61
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 61
 
 
  2670 0121 49       		.byte	73
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2724 0157 14       		.byte	20
  2725 0158 14       		.byte	20
  2726 0159 14       		.byte	20
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 62
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 62
 
 
  2727 015a 00       		.byte	0
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2781 0190 7F       		.byte	127
  2782 0191 00       		.byte	0
  2783 0192 41       		.byte	65
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 63
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 63
 
 
  2784 0193 7F       		.byte	127
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2838 01c9 01       		.byte	1
  2839 01ca 7F       		.byte	127
  2840 01cb 01       		.byte	1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 64
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 64
 
 
  2841 01cc 03       		.byte	3
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2895 0202 40       		.byte	64
  2896 0203 40       		.byte	64
  2897 0204 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 65
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 65
 
 
  2898 0205 03       		.byte	3
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  2952 023b 7F       		.byte	127
  2953 023c 10       		.byte	16
  2954 023d 28       		.byte	40
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 66
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 66
 
 
  2955 023e 44       		.byte	68
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3009 0274 40       		.byte	64
  3010 0275 20       		.byte	32
  3011 0276 1C       		.byte	28
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 67
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 67
 
 
  3012 0277 3C       		.byte	60
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3066 02ad 7A       		.byte	122
  3067 02ae 38       		.byte	56
  3068 02af 54       		.byte	84
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 68
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 68
 
 
  3069 02b0 54       		.byte	84
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3123 02e6 01       		.byte	1
  3124 02e7 45       		.byte	69
  3125 02e8 7C       		.byte	124
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 69
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 69
 
 
  3126 02e9 40       		.byte	64
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3180 031f A0       		.byte	-96
  3181 0320 7D       		.byte	125
  3182 0321 3D       		.byte	61
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 70
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 70
 
 
  3183 0322 42       		.byte	66
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3237 0358 00       		.byte	0
  3238 0359 7A       		.byte	122
  3239 035a 0A       		.byte	10
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 71
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 71
 
 
  3240 035b 0A       		.byte	10
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3294 0391 2A       		.byte	42
  3295 0392 14       		.byte	20
  3296 0393 08       		.byte	8
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 72
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 72
 
 
  3297 0394 AA       		.byte	-86
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3351 03ca FC       		.byte	-4
  3352 03cb 14       		.byte	20
  3353 03cc 14       		.byte	20
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 73
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 73
 
 
  3354 03cd 17       		.byte	23
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3408 0403 00       		.byte	0
  3409 0404 FF       		.byte	-1
  3410 0405 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 74
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 74
 
 
  3411 0406 FF       		.byte	-1
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3465 043c 10       		.byte	16
  3466 043d F0       		.byte	-16
  3467 043e 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 75
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 75
 
 
  3468 043f 00       		.byte	0
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3522 0475 00       		.byte	0
  3523 0476 00       		.byte	0
  3524 0477 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 76
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 76
 
 
  3525 0478 FF       		.byte	-1
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3579 04ae 49       		.byte	73
  3580 04af 2A       		.byte	42
  3581 04b0 1C       		.byte	28
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 77
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 77
 
 
  3582 04b1 4C       		.byte	76
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3636 04e7 03       		.byte	3
  3637 04e8 E0       		.byte	-32
  3638 04e9 80       		.byte	-128
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 78
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 78
 
 
  3639 04ea FF       		.byte	-1
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3693              		.align	2
  3694              		.set	.LANCHOR0,. + 0
  3695              		.type	SSD1306_buffer, %object
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 79
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 79
 
 
  3696              		.size	SSD1306_buffer, 1025
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3746              		.file 9 "c:\\program files (x86)\\cypress\\psoc creator\\4.4\\psoc creator\\import\\gnu\\arm\\5.4.
  3747              		.section	.debug_info,"",%progbits
  3748              	.Ldebug_info0:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 80
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 80
 
 
  3749 0000 29130000 		.4byte	0x1329
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3803 0079 04       		.byte	0x4
  3804 007a 05       		.byte	0x5
  3805 007b 78040000 		.4byte	.LASF9
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 81
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 81
 
 
  3806 007f 03       		.uleb128 0x3
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3860 00ed 7F000000 		.4byte	0x7f
  3861 00f1 03       		.uleb128 0x3
  3862 00f2 04       		.byte	0x4
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 82
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 82
 
 
  3863 00f3 04       		.byte	0x4
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3917 015c DD000000 		.4byte	.LASF31
  3918 0160 01       		.byte	0x1
  3919 0161 09       		.uleb128 0x9
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 83
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 83
 
 
  3920 0162 EC000000 		.4byte	.LASF32
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  3974 01ce 21       		.byte	0x21
  3975 01cf 8B010000 		.4byte	0x18b
  3976 01d3 0A       		.uleb128 0xa
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 84
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 84
 
 
  3977 01d4 6A020000 		.4byte	.LASF48
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4031 0251 0B       		.uleb128 0xb
  4032 0252 793200   		.ascii	"y2\000"
  4033 0255 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 85
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 85
 
 
  4034 0256 F0       		.byte	0xf0
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4088 02e3 5B020000 		.4byte	.LLST13
  4089 02e7 00       		.byte	0
  4090 02e8 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 86
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 86
 
 
  4091 02e9 00       		.byte	0
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4145 035f 9701     		.2byte	0x197
  4146 0361 77030000 		.4byte	0x377
  4147 0365 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 87
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 87
 
 
  4148 0366 51       		.byte	0x51
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4202 03ec 16       		.uleb128 0x16
  4203 03ed 7400     		.ascii	"t\000"
  4204 03ef 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 88
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 88
 
 
  4205 03f0 D001     		.2byte	0x1d0
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4259 0448 E5000000 		.4byte	0xe5
  4260 044c 00000000 		.4byte	.LFB64
  4261 0450 30000000 		.4byte	.LFE64-.LFB64
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 89
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 89
 
 
  4262 0454 01       		.uleb128 0x1
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4316 04d0 BF       		.byte	0xbf
  4317 04d1 00000000 		.4byte	.LFB66
  4318 04d5 1C000000 		.4byte	.LFE66-.LFB66
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 90
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 90
 
 
  4319 04d9 01       		.uleb128 0x1
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4373 053a 02       		.uleb128 0x2
  4374 053b 91       		.byte	0x91
  4375 053c 74       		.sleb128 -12
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 91
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 91
 
 
  4376 053d 1A       		.uleb128 0x1a
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4430 059d D9000000 		.4byte	0xd9
  4431 05a1 AC050000 		.4byte	0x5ac
  4432 05a5 22       		.uleb128 0x22
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 92
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 92
 
 
  4433 05a6 0D010000 		.4byte	0x10d
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4487 0604 D9000000 		.4byte	0xd9
  4488 0608 13060000 		.4byte	0x613
  4489 060c 22       		.uleb128 0x22
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 93
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 93
 
 
  4490 060d 0D010000 		.4byte	0x10d
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4544 067a 3601     		.2byte	0x136
  4545 067c C8010000 		.4byte	0x1c8
  4546 0680 46050000 		.4byte	.LLST30
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 94
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 94
 
 
  4547 0684 17       		.uleb128 0x17
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4601 06f4 01       		.byte	0x1
  4602 06f5 5501     		.2byte	0x155
  4603 06f7 B8000000 		.4byte	0xb8
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 95
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 95
 
 
  4604 06fb 01       		.uleb128 0x1
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4658 0765 50       		.byte	0x50
  4659 0766 02       		.uleb128 0x2
  4660 0767 74       		.byte	0x74
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 96
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 96
 
 
  4661 0768 68       		.sleb128 -24
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4715 07dc 6F01     		.2byte	0x16f
  4716 07de B8000000 		.4byte	0xb8
  4717 07e2 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 97
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 97
 
 
  4718 07e3 50       		.byte	0x50
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4772 0859 7E01     		.2byte	0x17e
  4773 085b C3000000 		.4byte	0xc3
  4774 085f 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 98
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 98
 
 
  4775 0860 50       		.byte	0x50
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4829 08d4 B8000000 		.4byte	0xb8
  4830 08d8 98060000 		.4byte	.LLST38
  4831 08dc 18       		.uleb128 0x18
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 99
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 99
 
 
  4832 08dd B3040000 		.4byte	.LASF47
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4886 094b 17       		.uleb128 0x17
  4887 094c 783100   		.ascii	"x1\000"
  4888 094f 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 100
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 100
 
 
  4889 0950 D801     		.2byte	0x1d8
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  4943 09d5 7D030000 		.4byte	0x37d
  4944 09d9 F9090000 		.4byte	0x9f9
  4945 09dd 1A       		.uleb128 0x1a
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 101
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 101
 
 
  4946 09de 01       		.uleb128 0x1
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5000 0a20 AA080000 		.4byte	0x8aa
  5001 0a24 1A       		.uleb128 0x1a
  5002 0a25 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 102
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 102
 
 
  5003 0a26 50       		.byte	0x50
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5057 0a89 B3040000 		.4byte	.LASF47
  5058 0a8d 01       		.byte	0x1
  5059 0a8e 0302     		.2byte	0x203
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 103
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 103
 
 
  5060 0a90 C3000000 		.4byte	0xc3
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5114 0adb 74       		.byte	0x74
  5115 0adc 00       		.sleb128 0
  5116 0add 1A       		.uleb128 0x1a
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 104
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 104
 
 
  5117 0ade 01       		.uleb128 0x1
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5171 0b1d 00       		.byte	0
  5172 0b1e 1B       		.uleb128 0x1b
  5173 0b1f 50000000 		.4byte	.LVL149
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 105
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 105
 
 
  5174 0b23 17090000 		.4byte	0x917
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5228 0b76 6F090000 		.4byte	.LLST54
  5229 0b7a 17       		.uleb128 0x17
  5230 0b7b 7700     		.ascii	"w\000"
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 106
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 106
 
 
  5231 0b7d 01       		.byte	0x1
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5285 0bda 22       		.byte	0x22
  5286 0bdb 31       		.byte	0x31
  5287 0bdc 1C       		.byte	0x1c
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 107
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 107
 
 
  5288 0bdd 1A       		.uleb128 0x1a
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5342 0c20 38010000 		.4byte	.LFE89-.LFB89
  5343 0c24 01       		.uleb128 0x1
  5344 0c25 9C       		.byte	0x9c
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 108
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 108
 
 
  5345 0c26 470E0000 		.4byte	0xe47
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5399 0ca5 2002     		.2byte	0x220
  5400 0ca7 B8000000 		.4byte	0xb8
  5401 0cab 02       		.uleb128 0x2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 109
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 109
 
 
  5402 0cac 91       		.byte	0x91
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5456 0cf4 19       		.uleb128 0x19
  5457 0cf5 52000000 		.4byte	.LVL169
  5458 0cf9 AA080000 		.4byte	0x8aa
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 110
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 110
 
 
  5459 0cfd 170D0000 		.4byte	0xd17
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5513 0d48 01       		.uleb128 0x1
  5514 0d49 50       		.byte	0x50
  5515 0d4a 04       		.uleb128 0x4
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 111
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 111
 
 
  5516 0d4b 91       		.byte	0x91
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5570 0d93 94       		.byte	0x94
  5571 0d94 02       		.byte	0x2
  5572 0d95 1A       		.uleb128 0x1a
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 112
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 112
 
 
  5573 0d96 01       		.uleb128 0x1
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5627 0dde 00       		.sleb128 0
  5628 0ddf 1A       		.uleb128 0x1a
  5629 0de0 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 113
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 113
 
 
  5630 0de1 52       		.byte	0x52
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5684 0e29 00       		.byte	0
  5685 0e2a 1B       		.uleb128 0x1b
  5686 0e2b 2C010000 		.4byte	.LVL187
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 114
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 114
 
 
  5687 0e2f AA080000 		.4byte	0x8aa
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5741 0e99 15       		.uleb128 0x15
  5742 0e9a 783200   		.ascii	"x2\000"
  5743 0e9d 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 115
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 115
 
 
  5744 0e9e 3902     		.2byte	0x239
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5798 0eee 74       		.byte	0x74
  5799 0eef 00       		.sleb128 0
  5800 0ef0 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 116
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 116
 
 
  5801 0ef1 19       		.uleb128 0x19
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5855 0f36 02       		.uleb128 0x2
  5856 0f37 77       		.byte	0x77
  5857 0f38 00       		.sleb128 0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 117
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 117
 
 
  5858 0f39 1A       		.uleb128 0x1a
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5912 0fa7 18       		.uleb128 0x18
  5913 0fa8 45010000 		.4byte	.LASF58
  5914 0fac 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 118
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 118
 
 
  5915 0fad 4202     		.2byte	0x242
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  5969 1013 96000000 		.4byte	.LVL198
  5970 1017 480B0000 		.4byte	0xb48
  5971 101b 53100000 		.4byte	0x1053
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 119
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 119
 
 
  5972 101f 1A       		.uleb128 0x1a
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6026 1060 1A       		.uleb128 0x1a
  6027 1061 01       		.uleb128 0x1
  6028 1062 50       		.byte	0x50
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 120
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 120
 
 
  6029 1063 05       		.uleb128 0x5
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6083 10a1 22       		.byte	0x22
  6084 10a2 1A       		.uleb128 0x1a
  6085 10a3 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 121
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 121
 
 
  6086 10a4 52       		.byte	0x52
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6140 1100 9C       		.byte	0x9c
  6141 1101 4F110000 		.4byte	0x114f
  6142 1105 17       		.uleb128 0x17
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 122
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 122
 
 
  6143 1106 7300     		.ascii	"s\000"
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6197 1183 03       		.uleb128 0x3
  6198 1184 F3       		.byte	0xf3
  6199 1185 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 123
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 123
 
 
  6200 1186 50       		.byte	0x50
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6254 11f7 20       		.uleb128 0x20
  6255 11f8 94050000 		.4byte	.LASF103
  6256 11fc 01       		.byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 124
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 124
 
 
  6257 11fd 60       		.byte	0x60
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6311 1275 03       		.byte	0x3
  6312 1276 0E000000 		.4byte	textcolor
  6313 127a 12       		.uleb128 0x12
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 125
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 125
 
 
  6314 127b 06060000 		.4byte	.LASF110
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6368 12f7 2C       		.uleb128 0x2c
  6369 12f8 FA020000 		.4byte	.LASF117
  6370 12fc FA020000 		.4byte	.LASF117
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 126
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 126
 
 
  6371 1300 08       		.byte	0x8
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6425 001f 00       		.byte	0
  6426 0020 03       		.uleb128 0x3
  6427 0021 24       		.uleb128 0x24
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 127
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 127
 
 
  6428 0022 00       		.byte	0
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6482 0058 49       		.uleb128 0x49
  6483 0059 13       		.uleb128 0x13
  6484 005a 3A       		.uleb128 0x3a
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 128
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 128
 
 
  6485 005b 0B       		.uleb128 0xb
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6539 0092 0C       		.uleb128 0xc
  6540 0093 05       		.uleb128 0x5
  6541 0094 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 129
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 129
 
 
  6542 0095 03       		.uleb128 0x3
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6596 00cb 0B       		.uleb128 0xb
  6597 00cc 01       		.byte	0x1
  6598 00cd 11       		.uleb128 0x11
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 130
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 130
 
 
  6599 00ce 01       		.uleb128 0x1
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6653 0104 0E       		.uleb128 0xe
  6654 0105 3A       		.uleb128 0x3a
  6655 0106 0B       		.uleb128 0xb
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 131
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 131
 
 
  6656 0107 3B       		.uleb128 0x3b
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6710 013e 05       		.uleb128 0x5
  6711 013f 49       		.uleb128 0x49
  6712 0140 13       		.uleb128 0x13
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 132
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 132
 
 
  6713 0141 02       		.uleb128 0x2
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6767 017e 0B       		.uleb128 0xb
  6768 017f 3B       		.uleb128 0x3b
  6769 0180 0B       		.uleb128 0xb
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 133
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 133
 
 
  6770 0181 27       		.uleb128 0x27
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6824 01bb 19       		.uleb128 0x19
  6825 01bc 01       		.uleb128 0x1
  6826 01bd 13       		.uleb128 0x13
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 134
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 134
 
 
  6827 01be 00       		.byte	0
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6881 01f4 9742     		.uleb128 0x2117
  6882 01f6 19       		.uleb128 0x19
  6883 01f7 01       		.uleb128 0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 135
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 135
 
 
  6884 01f8 13       		.uleb128 0x13
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6938 022f 00       		.byte	0
  6939 0230 00       		.byte	0
  6940 0231 27       		.uleb128 0x27
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 136
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 136
 
 
  6941 0232 21       		.uleb128 0x21
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  6995 0268 3B       		.uleb128 0x3b
  6996 0269 05       		.uleb128 0x5
  6997 026a 49       		.uleb128 0x49
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 137
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 137
 
 
  6998 026b 13       		.uleb128 0x13
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7052 0021 0100     		.2byte	0x1
  7053 0023 50       		.byte	0x50
  7054 0024 4C000000 		.4byte	.LVL6
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 138
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 138
 
 
  7055 0028 60000000 		.4byte	.LVL8
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7109 00a2 00000000 		.4byte	0
  7110              	.LLST2:
  7111 00a6 00000000 		.4byte	.LVL0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 139
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 139
 
 
  7112 00aa 1C000000 		.4byte	.LVL1
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7166 0128 01       		.uleb128 0x1
  7167 0129 50       		.byte	0x50
  7168 012a 9F       		.byte	0x9f
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 140
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 140
 
 
  7169 012b 00000000 		.4byte	0
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7223 01ab 00000000 		.4byte	0
  7224              	.LLST7:
  7225 01af 00000000 		.4byte	.LVL12
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 141
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 141
 
 
  7226 01b3 DA000000 		.4byte	.LVL27
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7280 0240 00000000 		.4byte	0
  7281 0244 00000000 		.4byte	0
  7282              	.LLST12:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 142
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 142
 
 
  7283 0248 46000000 		.4byte	.LVL18
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7337 02dc 0100     		.2byte	0x1
  7338 02de 50       		.byte	0x50
  7339 02df 9C000000 		.4byte	.LVL52
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 143
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 143
 
 
  7340 02e3 9F000000 		.4byte	.LVL53-1
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7394 0369 96000000 		.4byte	.LVL50
  7395 036d 0100     		.2byte	0x1
  7396 036f 52       		.byte	0x52
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 144
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 144
 
 
  7397 0370 96000000 		.4byte	.LVL50
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7451 03f6 00       		.sleb128 0
  7452 03f7 08010000 		.4byte	.LVL61
  7453 03fb 14010000 		.4byte	.LFE85
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 145
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 145
 
 
  7454 03ff 0200     		.2byte	0x2
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7508 0482 55       		.byte	0x55
  7509 0483 1E000000 		.4byte	.LVL69
  7510 0487 20000000 		.4byte	.LVL70
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 146
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 146
 
 
  7511 048b 0100     		.2byte	0x1
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7565 0510 9F       		.byte	0x9f
  7566 0511 00000000 		.4byte	0
  7567 0515 00000000 		.4byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 147
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 147
 
 
  7568              	.LLST29:
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7622 0598 24000000 		.4byte	.LVL84
  7623 059c 0100     		.2byte	0x1
  7624 059e 53       		.byte	0x53
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 148
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 148
 
 
  7625 059f 24000000 		.4byte	.LVL84
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7679 0629 01       		.uleb128 0x1
  7680 062a 50       		.byte	0x50
  7681 062b 9F       		.byte	0x9f
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 149
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 149
 
 
  7682 062c 00000000 		.4byte	0
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7736 06b3 35000000 		.4byte	.LVL108-1
  7737 06b7 0200     		.2byte	0x2
  7738 06b9 71       		.byte	0x71
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 150
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 150
 
 
  7739 06ba 00       		.sleb128 0
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7793 0740 55       		.byte	0x55
  7794 0741 00000000 		.4byte	0
  7795 0745 00000000 		.4byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 151
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 151
 
 
  7796              	.LLST41:
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7850 07d1 2A000000 		.4byte	.LVL116
  7851 07d5 0400     		.2byte	0x4
  7852 07d7 F3       		.byte	0xf3
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 152
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 152
 
 
  7853 07d8 01       		.uleb128 0x1
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7907              	.LLST46:
  7908 0856 7E000000 		.4byte	.LVL125
  7909 085a D0000000 		.4byte	.LVL142
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 153
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 153
 
 
  7910 085e 0100     		.2byte	0x1
@@ -9178,7 +9178,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  7964 08e8 01       		.uleb128 0x1
  7965 08e9 51       		.byte	0x51
  7966 08ea 9F       		.byte	0x9f
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 154
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 154
 
 
  7967 08eb 00000000 		.4byte	0
@@ -9238,7 +9238,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8021 096b 00000000 		.4byte	0
  8022              	.LLST54:
  8023 096f 00000000 		.4byte	.LVL150
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 155
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 155
 
 
  8024 0973 1A000000 		.4byte	.LVL152
@@ -9298,7 +9298,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8078 09f2 36000000 		.4byte	.LVL156
  8079 09f6 0400     		.2byte	0x4
  8080 09f8 F3       		.byte	0xf3
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 156
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 156
 
 
  8081 09f9 01       		.uleb128 0x1
@@ -9358,7 +9358,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8135 0a7f 01       		.uleb128 0x1
  8136 0a80 50       		.byte	0x50
  8137 0a81 9F       		.byte	0x9f
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 157
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 157
 
 
  8138 0a82 00000000 		.4byte	0
@@ -9418,7 +9418,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8192 0b0b 9C000000 		.4byte	.LVL179
  8193 0b0f 38010000 		.4byte	.LFE89
  8194 0b13 0100     		.2byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 158
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 158
 
 
  8195 0b15 54       		.byte	0x54
@@ -9478,7 +9478,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8249 0b97 00000000 		.4byte	0
  8250 0b9b 00000000 		.4byte	0
  8251              	.LLST67:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 159
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 159
 
 
  8252 0b9f 00000000 		.4byte	.LVL188
@@ -9538,7 +9538,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8306 0c1f 00000000 		.4byte	0
  8307              	.LLST71:
  8308 0c23 00000000 		.4byte	.LVL192
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 160
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 160
 
 
  8309 0c27 42000000 		.4byte	.LVL193
@@ -9598,7 +9598,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8363 0ca9 DA000000 		.4byte	.LVL204
  8364 0cad 0100     		.2byte	0x1
  8365 0caf 57       		.byte	0x57
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 161
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 161
 
 
  8366 0cb0 DC000000 		.4byte	.LVL205
@@ -9658,7 +9658,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8420 0d3e 0A000000 		.4byte	.LVL213
  8421 0d42 0E000000 		.4byte	.LVL214
  8422 0d46 0100     		.2byte	0x1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 162
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 162
 
 
  8423 0d48 50       		.byte	0x50
@@ -9718,7 +9718,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8477 0044 22000000 		.4byte	.LFE67-.LFB67
  8478 0048 00000000 		.4byte	.LFB68
  8479 004c 24000000 		.4byte	.LFE68-.LFB68
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 163
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 163
 
 
  8480 0050 00000000 		.4byte	.LFB69
@@ -9778,7 +9778,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8534 0008 14000000 		.4byte	.LBB8
  8535 000c 24000000 		.4byte	.LBE8
  8536 0010 00000000 		.4byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 164
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 164
 
 
  8537 0014 00000000 		.4byte	0
@@ -9838,7 +9838,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8591 00ec 38010000 		.4byte	.LFE89
  8592 00f0 00000000 		.4byte	.LFB90
  8593 00f4 42000000 		.4byte	.LFE90
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 165
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 165
 
 
  8594 00f8 00000000 		.4byte	.LFB91
@@ -9898,7 +9898,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8623              	.LASF75:
  8624 0068 69326361 		.ascii	"i2caddr\000"
  8624      64647200 
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 166
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 166
 
 
  8625              	.LASF84:
@@ -9958,7 +9958,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8648      5F3400
  8649              	.LASF34:
  8650 010a 5343524F 		.ascii	"SCROLL_SPEED_5\000"
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 167
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 167
 
 
  8650      4C4C5F53 
@@ -10018,7 +10018,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8676      65642069 
  8677              	.LASF6:
  8678 01a2 5F5F7569 		.ascii	"__uint16_t\000"
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 168
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 168
 
 
  8678      6E743136 
@@ -10078,7 +10078,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8698      4147455F 
  8698      3200
  8699              	.LASF41:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 169
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 169
 
 
  8700 02a5 5343524F 		.ascii	"SCROLL_PAGE_3\000"
@@ -10138,7 +10138,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8723              	.LASF59:
  8724 0342 73746174 		.ascii	"status\000"
  8724      757300
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 170
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 170
 
 
  8725              	.LASF89:
@@ -10198,7 +10198,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8752      333200
  8753              	.LASF123:
  8754 03d3 433A5C61 		.ascii	"C:\\au\\gsv\\lab3\\Scale.cydsn\000"
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 171
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 171
 
 
  8754      755C6773 
@@ -10258,7 +10258,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8778      7400
  8779              	.LASF55:
  8780 0470 7069786D 		.ascii	"pixmask\000"
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 172
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 172
 
 
  8780      61736B00 
@@ -10318,7 +10318,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8807              	.LASF100:
  8808 0505 666F6E74 		.ascii	"font\000"
  8808      00
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 173
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 173
 
 
  8809              	.LASF25:
@@ -10378,7 +10378,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 1
  8835              	.LASF103:
  8836 0594 5F646973 		.ascii	"_displaybuf\000"
  8836      706C6179 
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\cc7WQmRG.s 			page 174
+ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccX41LCr.s 			page 174
 
 
  8836      62756600 

@@ -8,6 +8,11 @@ int main(void)
 {
     initPrint();
     initWeight();
+    
+    // Initial codeblock to set scale to zero
+    CyDelay(500);
+    convertV2G();
+    initTARE();
 
     while(1)
     {

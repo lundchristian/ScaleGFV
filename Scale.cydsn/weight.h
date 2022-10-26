@@ -24,6 +24,12 @@ CY_ISR(ISR_pin_1_handler)
     globalTARE = globalWeight;
 }
 
+// Called once to zero initialize weight
+void initTARE(void)
+{
+    globalTARE = globalWeight;
+}
+
 // Returns a float mean measurement in kilograms
 float convertV2G(void)
 {
@@ -55,5 +61,10 @@ float convertV2G(void)
     
     // Divide by 3.245 to get precise conversion to grams
     // Divide by 1000 to get conversion to kilograms
-    return res32/3.245/1000;
+    res32 = (res32/3.245/1000) + 0.0007;
+    
+    if (res32 < 0.001 && res32 > -0.001)
+        res32 = 0;
+
+    return res32;
 }

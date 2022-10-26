@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Scale\Scale\Header Files\print.h">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Scale\Scale\TopDesign">
 <ExpandedNodeIds>
 <v>Scale</v>
 <v>Scale\Scale</v>
@@ -196,9 +196,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\Scale.cydsn\main.c" />
-<name v=".\Scale.cydsn\weight.h" />
 <name v=".\Scale.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Scale.cydsn\print.h" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -206,7 +204,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="984, 595" SelectedTabbedMdiWindow="50ed5f34-3285-4347-82b3-a3a7ef3a295e"><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\main.c" Guid="1eed87cc-2911-4a1e-8965-3b040d93036d" /><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\weight.h" Guid="50ed5f34-3285-4347-82b3-a3a7ef3a295e" /><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\TopDesign\TopDesign.cysch" Guid="263c8072-4043-4961-998a-fb6d114eef46" /><ToolWindow Key="Output Window Plugin:7305390e-eabe-4963-b21f-3a0f11b4b1d5:Output Window" Guid="2782927e-c8de-4a61-a8e6-f1d459488da8" /><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\print.h" Guid="8c52d3cb-267f-4fd1-9f98-123dbb963099" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1067, 595" SelectedTabbedMdiWindow="2782927e-c8de-4a61-a8e6-f1d459488da8"><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\main.c" Guid="1eed87cc-2911-4a1e-8965-3b040d93036d" /><DocumentWindow Key="C:\au\gsv\lab3\Scale.cydsn\TopDesign\TopDesign.cysch" Guid="f52983cf-9d49-4e59-8c50-e4dc1791e44f" /><ToolWindow Key="Output Window Plugin:7305390e-eabe-4963-b21f-3a0f11b4b1d5:Output Window" Guid="2782927e-c8de-4a61-a8e6-f1d459488da8" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

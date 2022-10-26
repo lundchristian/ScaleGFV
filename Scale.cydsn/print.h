@@ -69,13 +69,21 @@ void printOLED(float res32)
     gfx_setCursor(5,50);
     gfx_print("-------------------");
     
-    // Store weight in outputbuffer
+    // Store mass in outputbuffer
     char outputBuffer[256];
     snprintf(outputBuffer, sizeof(outputBuffer), "%.3f kg", res32);
     
-    // Display the outputbuffer
+    // Display the outputbuffer in mass
     gfx_setTextSize(2);
-    gfx_setCursor(20,20);
+    gfx_setCursor(20,10);
+    gfx_print(outputBuffer);
+    
+    // Store weight in outputbuffer
+    res32 *= 9.81; // Multiply mass by gravitational constant on earth
+    snprintf(outputBuffer, sizeof(outputBuffer), "%.1f N", res32);
+    
+    // Display the outputbuffer in weight
+    gfx_setCursor(20,30);
     gfx_print(outputBuffer);
     
     // Send to OLED
