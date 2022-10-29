@@ -59,14 +59,8 @@ float convertV2G(void)
     
     res32 = (res32/loop) - globalTARE; // Adjust return value to TARE null-point value
     
-    // Divide by 3.245 to get precise conversion to grams
-    // Divide by 1000 to get conversion to kilograms
-    // Add 0.0007 for extraordinary precision
-    res32 = (res32/3.245/1000) + 0.0007;
-    
-    // Display 0kg if output is within range of +/- 0.001
-    if (res32 < 0.001 && res32 > -0.001)
-        res32 = 0;
+    // Divide by 1576 to get precise conversion to kilograms
+    res32 /= 1576;
 
     return res32;
 }

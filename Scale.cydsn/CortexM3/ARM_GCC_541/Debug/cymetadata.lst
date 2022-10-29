@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
   55 001a 01       		.byte	1
   56 001b 40       		.byte	64
   57 001c 06       		.byte	6
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 2
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 2
 
 
   58 001d 15       		.byte	21
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  112 0053 40       		.byte	64
  113 0054 0D       		.byte	13
  114 0055 4C       		.byte	76
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 3
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 3
 
 
  115 0056 01       		.byte	1
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  169 008c 1A       		.byte	26
  170 008d 14       		.byte	20
  171 008e 1B       		.byte	27
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 4
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 4
 
 
  172 008f 03       		.byte	3
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  226 00c5 01       		.byte	1
  227 00c6 58       		.byte	88
  228 00c7 04       		.byte	4
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 5
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 5
 
 
  229 00c8 59       		.byte	89
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  283 00fe B0       		.byte	-80
  284 00ff 03       		.byte	3
  285 0100 B1       		.byte	-79
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 6
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 6
 
 
  286 0101 0F       		.byte	15
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  340 0137 80       		.byte	-128
  341 0138 04       		.byte	4
  342 0139 10       		.byte	16
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 7
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 7
 
 
  343 013a 05       		.byte	5
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  397 0170 3A       		.byte	58
  398 0171 08       		.byte	8
  399 0172 3C       		.byte	60
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 8
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 8
 
 
  400 0173 10       		.byte	16
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  454 01a9 01       		.byte	1
  455 01aa E6       		.byte	-26
  456 01ab 02       		.byte	2
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 9
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 9
 
 
  457 01ac E8       		.byte	-24
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  511 01e2 27       		.byte	39
  512 01e3 E3       		.byte	-29
  513 01e4 28       		.byte	40
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 10
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 10
 
 
  514 01e5 20       		.byte	32
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  568 021b 10       		.byte	16
  569 021c DF       		.byte	-33
  570 021d 01       		.byte	1
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 11
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 11
 
 
  571 021e 05       		.byte	5
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  625 0254 6C       		.byte	108
  626 0255 22       		.byte	34
  627 0256 6D       		.byte	109
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 12
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 12
 
 
  628 0257 10       		.byte	16
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  682 028d 11       		.byte	17
  683 028e 24       		.byte	36
  684 028f 03       		.byte	3
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 13
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 13
 
 
  685 0290 28       		.byte	40
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  739 02c6 AB       		.byte	-85
  740 02c7 01       		.byte	1
  741 02c8 AD       		.byte	-83
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 14
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 14
 
 
  742 02c9 01       		.byte	1
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  796 02ff 04       		.byte	4
  797 0300 DB       		.byte	-37
  798 0301 04       		.byte	4
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 15
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 15
 
 
  799 0302 DC       		.byte	-36
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  853 0338 2C       		.byte	44
  854 0339 04       		.byte	4
  855 033a 2D       		.byte	45
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 16
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 16
 
 
  856 033b 08       		.byte	8
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  910 0371 08       		.byte	8
  911 0372 9A       		.byte	-102
  912 0373 88       		.byte	-120
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 17
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 17
 
 
  913 0374 9D       		.byte	-99
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  967 03aa 3E       		.byte	62
  968 03ab 10       		.byte	16
  969 03ac A7       		.byte	-89
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 18
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 18
 
 
  970 03ad 28       		.byte	40
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1024 03e3 04       		.byte	4
  1025 03e4 C4       		.byte	-60
  1026 03e5 30       		.byte	48
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 19
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 19
 
 
  1027 03e6 DC       		.byte	-36
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1081 041c A7       		.byte	-89
  1082 041d 10       		.byte	16
  1083 041e AB       		.byte	-85
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 20
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 20
 
 
  1084 041f 28       		.byte	40
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1138 0455 0B       		.byte	11
  1139 0456 0B       		.byte	11
  1140 0457 00       		.byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 21
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 21
 
 
  1141 0458 00       		.byte	0
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1195              		.size	cy_meta_flashprotect, 256
  1196              	cy_meta_flashprotect:
  1197 0000 00000000 		.space	256
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 22
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 22
 
 
  1197      00000000 
@@ -1277,15 +1277,15 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1207 0006 00000000 		.4byte	.Ldebug_abbrev0
  1208 000a 04       		.byte	0x4
  1209 000b 01       		.uleb128 0x1
- 1210 000c 24000000 		.4byte	.LASF17
+ 1210 000c 45000000 		.4byte	.LASF17
  1211 0010 0C       		.byte	0xc
- 1212 0011 99010000 		.4byte	.LASF18
- 1213 0015 D7000000 		.4byte	.LASF19
+ 1212 0011 AD010000 		.4byte	.LASF18
+ 1213 0015 16000000 		.4byte	.LASF19
  1214 0019 00000000 		.4byte	.Ldebug_line0
  1215 001d 02       		.uleb128 0x2
  1216 001e 01       		.byte	0x1
  1217 001f 06       		.byte	0x6
- 1218 0020 8D010000 		.4byte	.LASF0
+ 1218 0020 A1010000 		.4byte	.LASF0
  1219 0024 03       		.uleb128 0x3
  1220 0025 00000000 		.4byte	.LASF9
  1221 0029 01       		.byte	0x1
@@ -1294,34 +1294,34 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1224 002f 02       		.uleb128 0x2
  1225 0030 01       		.byte	0x1
  1226 0031 08       		.byte	0x8
- 1227 0032 16000000 		.4byte	.LASF1
+ 1227 0032 F8000000 		.4byte	.LASF1
  1228 0036 02       		.uleb128 0x2
  1229 0037 02       		.byte	0x2
  1230 0038 05       		.byte	0x5
- 1231 0039 7A010000 		.4byte	.LASF2
+ 1231 0039 8E010000 		.4byte	.LASF2
  1232 003d 02       		.uleb128 0x2
  1233 003e 02       		.byte	0x2
  1234 003f 07       		.byte	0x7
- 1235 0040 C4000000 		.4byte	.LASF3
+ 1235 0040 E5000000 		.4byte	.LASF3
  1236 0044 02       		.uleb128 0x2
  1237 0045 04       		.byte	0x4
  1238 0046 05       		.byte	0x5
- 1239 0047 84010000 		.4byte	.LASF4
+ 1239 0047 98010000 		.4byte	.LASF4
  1240 004b 02       		.uleb128 0x2
  1241 004c 04       		.byte	0x4
  1242 004d 07       		.byte	0x7
- 1243 004e B2000000 		.4byte	.LASF5
+ 1243 004e D3000000 		.4byte	.LASF5
  1244 0052 02       		.uleb128 0x2
  1245 0053 08       		.byte	0x8
  1246 0054 05       		.byte	0x5
- 1247 0055 6C010000 		.4byte	.LASF6
+ 1247 0055 80010000 		.4byte	.LASF6
  1248 0059 02       		.uleb128 0x2
  1249 005a 08       		.byte	0x8
  1250 005b 07       		.byte	0x7
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 23
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 23
 
 
- 1251 005c 21010000 		.4byte	.LASF7
+ 1251 005c 35010000 		.4byte	.LASF7
  1252 0060 04       		.uleb128 0x4
  1253 0061 04       		.byte	0x4
  1254 0062 05       		.byte	0x5
@@ -1329,9 +1329,9 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1256 0067 02       		.uleb128 0x2
  1257 0068 04       		.byte	0x4
  1258 0069 07       		.byte	0x7
- 1259 006a 14010000 		.4byte	.LASF8
+ 1259 006a 28010000 		.4byte	.LASF8
  1260 006e 03       		.uleb128 0x3
- 1261 006f 38010000 		.4byte	.LASF10
+ 1261 006f 4C010000 		.4byte	.LASF10
  1262 0073 02       		.byte	0x2
  1263 0074 18       		.byte	0x18
  1264 0075 24000000 		.4byte	0x24
@@ -1345,11 +1345,11 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1272 008a 02       		.uleb128 0x2
  1273 008b 04       		.byte	0x4
  1274 008c 07       		.byte	0x7
- 1275 008d 63010000 		.4byte	.LASF11
+ 1275 008d 77010000 		.4byte	.LASF11
  1276 0091 07       		.uleb128 0x7
  1277 0092 6E000000 		.4byte	0x6e
  1278 0096 08       		.uleb128 0x8
- 1279 0097 02010000 		.4byte	.LASF12
+ 1279 0097 16010000 		.4byte	.LASF12
  1280 009b 03       		.byte	0x3
  1281 009c 1F       		.byte	0x1f
  1282 009d A7000000 		.4byte	0xa7
@@ -1366,7 +1366,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1293 00ba 03       		.byte	0x3
  1294 00bb 00       		.byte	0
  1295 00bc 08       		.uleb128 0x8
- 1296 00bd F2000000 		.4byte	.LASF13
+ 1296 00bd 06010000 		.4byte	.LASF13
  1297 00c1 03       		.byte	0x3
  1298 00c2 B9       		.byte	0xb9
  1299 00c3 CD000000 		.4byte	0xcd
@@ -1376,9 +1376,9 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1303 00cd 07       		.uleb128 0x7
  1304 00ce AC000000 		.4byte	0xac
  1305 00d2 08       		.uleb128 0x8
- 1306 00d3 55010000 		.4byte	.LASF14
+ 1306 00d3 69010000 		.4byte	.LASF14
  1307 00d7 03       		.byte	0x3
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 24
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 24
 
 
  1308 00d8 C7       		.byte	0xc7
@@ -1396,7 +1396,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1320 00f6 FF       		.byte	0xff
  1321 00f7 00       		.byte	0
  1322 00f8 08       		.uleb128 0x8
- 1323 00f9 40010000 		.4byte	.LASF15
+ 1323 00f9 54010000 		.4byte	.LASF15
  1324 00fd 03       		.byte	0x3
  1325 00fe D5       		.byte	0xd5
  1326 00ff 09010000 		.4byte	0x109
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1362 000a 0E       		.uleb128 0xe
  1363 000b 10       		.uleb128 0x10
  1364 000c 17       		.uleb128 0x17
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 25
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 25
 
 
  1365 000d 00       		.byte	0
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1419 0043 00       		.byte	0
  1420 0044 07       		.uleb128 0x7
  1421 0045 26       		.uleb128 0x26
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 26
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 26
 
 
  1422 0046 00       		.byte	0
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1476 000b 00       		.byte	0
  1477 000c 0000     		.2byte	0
  1478 000e 0000     		.2byte	0
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 27
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 27
 
 
  1479 0010 00000000 		.4byte	0
@@ -1578,112 +1578,113 @@ ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 1
  1487 000a 63795F6D 		.ascii	"cy_metadata\000"
  1487      65746164 
  1487      61746100 
- 1488              	.LASF1:
- 1489 0016 756E7369 		.ascii	"unsigned char\000"
- 1489      676E6564 
- 1489      20636861 
- 1489      7200
- 1490              	.LASF17:
- 1491 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 1491      43313120 
- 1491      352E342E 
- 1491      31203230 
- 1491      31363036 
- 1492 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 1492      20726576 
- 1492      6973696F 
- 1492      6E203233 
- 1492      37373135 
- 1493 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 1493      66756E63 
- 1493      74696F6E 
- 1493      2D736563 
- 1493      74696F6E 
- 1494              	.LASF5:
- 1495 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
- 1495      20756E73 
- 1495      69676E65 
- 1495      6420696E 
- 1495      7400
- 1496              	.LASF3:
- 1497 00c4 73686F72 		.ascii	"short unsigned int\000"
- 1497      7420756E 
- 1497      7369676E 
- 1497      65642069 
- 1497      6E7400
- 1498              	.LASF19:
- 1499 00d7 433A5C61 		.ascii	"C:\\au\\gsv\\lab3\\Scale.cydsn\000"
- 1499      755C6773 
- 1499      765C6C61 
- 1499      62335C53 
- 1499      63616C65 
- 1500              	.LASF13:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 28
+ 1488              	.LASF19:
+ 1489 0016 433A5C45 		.ascii	"C:\\ECE\\SW2\\DSD\\Exercise_5\\ScaleGFV\\Scale.cyds"
+ 1489      43455C53 
+ 1489      57325C44 
+ 1489      53445C45 
+ 1489      78657263 
+ 1490 0043 6E00     		.ascii	"n\000"
+ 1491              	.LASF17:
+ 1492 0045 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1492      43313120 
+ 1492      352E342E 
+ 1492      31203230 
+ 1492      31363036 
+ 1493 0078 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ 1493      20726576 
+ 1493      6973696F 
+ 1493      6E203233 
+ 1493      37373135 
+ 1494 00ab 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1494      66756E63 
+ 1494      74696F6E 
+ 1494      2D736563 
+ 1494      74696F6E 
+ 1495              	.LASF5:
+ 1496 00d3 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1496      20756E73 
+ 1496      69676E65 
+ 1496      6420696E 
+ 1496      7400
+ 1497              	.LASF3:
+ 1498 00e5 73686F72 		.ascii	"short unsigned int\000"
+ 1498      7420756E 
+ 1498      7369676E 
+ 1498      65642069 
+ 1498      6E7400
+ 1499              	.LASF1:
+ 1500 00f8 756E7369 		.ascii	"unsigned char\000"
+ 1500      676E6564 
+ 1500      20636861 
+ 1500      7200
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 28
 
 
- 1501 00f2 63795F6D 		.ascii	"cy_meta_custnvl\000"
- 1501      6574615F 
- 1501      63757374 
- 1501      6E766C00 
- 1502              	.LASF12:
- 1503 0102 63795F6D 		.ascii	"cy_meta_configecc\000"
- 1503      6574615F 
- 1503      636F6E66 
- 1503      69676563 
- 1503      6300
- 1504              	.LASF8:
- 1505 0114 756E7369 		.ascii	"unsigned int\000"
- 1505      676E6564 
- 1505      20696E74 
- 1505      00
- 1506              	.LASF7:
- 1507 0121 6C6F6E67 		.ascii	"long long unsigned int\000"
- 1507      206C6F6E 
- 1507      6720756E 
- 1507      7369676E 
- 1507      65642069 
- 1508              	.LASF10:
- 1509 0138 75696E74 		.ascii	"uint8_t\000"
- 1509      385F7400 
- 1510              	.LASF15:
- 1511 0140 63795F6D 		.ascii	"cy_meta_flashprotect\000"
- 1511      6574615F 
- 1511      666C6173 
- 1511      6870726F 
- 1511      74656374 
- 1512              	.LASF14:
- 1513 0155 63795F6D 		.ascii	"cy_meta_wonvl\000"
- 1513      6574615F 
- 1513      776F6E76 
- 1513      6C00
- 1514              	.LASF11:
- 1515 0163 73697A65 		.ascii	"sizetype\000"
- 1515      74797065 
- 1515      00
- 1516              	.LASF6:
- 1517 016c 6C6F6E67 		.ascii	"long long int\000"
- 1517      206C6F6E 
- 1517      6720696E 
- 1517      7400
- 1518              	.LASF2:
- 1519 017a 73686F72 		.ascii	"short int\000"
- 1519      7420696E 
- 1519      7400
- 1520              	.LASF4:
- 1521 0184 6C6F6E67 		.ascii	"long int\000"
- 1521      20696E74 
- 1521      00
- 1522              	.LASF0:
- 1523 018d 7369676E 		.ascii	"signed char\000"
- 1523      65642063 
- 1523      68617200 
- 1524              	.LASF18:
-ARM GAS  C:\Users\lundc\AppData\Local\Temp\ccZVK7bN.s 			page 29
+ 1501              	.LASF13:
+ 1502 0106 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 1502      6574615F 
+ 1502      63757374 
+ 1502      6E766C00 
+ 1503              	.LASF12:
+ 1504 0116 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1504      6574615F 
+ 1504      636F6E66 
+ 1504      69676563 
+ 1504      6300
+ 1505              	.LASF8:
+ 1506 0128 756E7369 		.ascii	"unsigned int\000"
+ 1506      676E6564 
+ 1506      20696E74 
+ 1506      00
+ 1507              	.LASF7:
+ 1508 0135 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1508      206C6F6E 
+ 1508      6720756E 
+ 1508      7369676E 
+ 1508      65642069 
+ 1509              	.LASF10:
+ 1510 014c 75696E74 		.ascii	"uint8_t\000"
+ 1510      385F7400 
+ 1511              	.LASF15:
+ 1512 0154 63795F6D 		.ascii	"cy_meta_flashprotect\000"
+ 1512      6574615F 
+ 1512      666C6173 
+ 1512      6870726F 
+ 1512      74656374 
+ 1513              	.LASF14:
+ 1514 0169 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 1514      6574615F 
+ 1514      776F6E76 
+ 1514      6C00
+ 1515              	.LASF11:
+ 1516 0177 73697A65 		.ascii	"sizetype\000"
+ 1516      74797065 
+ 1516      00
+ 1517              	.LASF6:
+ 1518 0180 6C6F6E67 		.ascii	"long long int\000"
+ 1518      206C6F6E 
+ 1518      6720696E 
+ 1518      7400
+ 1519              	.LASF2:
+ 1520 018e 73686F72 		.ascii	"short int\000"
+ 1520      7420696E 
+ 1520      7400
+ 1521              	.LASF4:
+ 1522 0198 6C6F6E67 		.ascii	"long int\000"
+ 1522      20696E74 
+ 1522      00
+ 1523              	.LASF0:
+ 1524 01a1 7369676E 		.ascii	"signed char\000"
+ 1524      65642063 
+ 1524      68617200 
+ARM GAS  C:\Users\Bruger\AppData\Local\Temp\ccTzzkld.s 			page 29
 
 
- 1525 0199 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
- 1525      72617465 
- 1525      645F536F 
- 1525      75726365 
- 1525      5C50536F 
- 1526              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 1525              	.LASF18:
+ 1526 01ad 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 1526      72617465 
+ 1526      645F536F 
+ 1526      75726365 
+ 1526      5C50536F 
+ 1527              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

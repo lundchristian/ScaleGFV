@@ -1,6 +1,6 @@
-C:\au\gsv\lab3\Scale.cydsn\Scale.cyprj|b6fa498b-aabe-4d3a-8e85-e64062b0f128
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2d0a0f54-d375-4e08-9a63-94ce47c566f4
-C:\Users\lundc\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|991d8b40-cb60-4d23-8a53-f3c2791fcc41
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4efd44af-a06e-43d8-b883-0fc2222b216d
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cdf69352-ae00-4092-b1a3-9cab3ce153e6
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|554b03ea-16dc-4c49-9bfe-a7783d27b438
+C:\ECE\SW2\DSD\Exercise_5\ScaleGFV\Scale.cydsn\Scale.cyprj|0e528cb2-8133-4175-99c0-23793008acd3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fdae1d1f-f4be-4151-b04a-9d55101bc5e6
+C:\Users\Bruger\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|b5b3f6ab-0507-4650-b61c-a349b9abdbef
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7e1bfb37-f05d-439c-9c2e-a360ccc624ff
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4c3e9801-ea85-43d8-8383-f459c0d2e382
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8a098d04-912f-4013-90cd-9e768c0cd157

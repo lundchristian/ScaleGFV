@@ -1,3 +1,3 @@
-# Component constraints for C:\au\gsv\lab3\Scale.cydsn\TopDesign\TopDesign.cysch
-# Project: C:\au\gsv\lab3\Scale.cydsn\Scale.cyprj
-# Date: Wed, 26 Oct 2022 11:07:36 GMT
+# Component constraints for C:\ECE\SW2\DSD\Exercise_5\ScaleGFV\Scale.cydsn\TopDesign\TopDesign.cysch
+# Project: C:\ECE\SW2\DSD\Exercise_5\ScaleGFV\Scale.cydsn\Scale.cyprj
+# Date: Sat, 29 Oct 2022 12:14:18 GMT

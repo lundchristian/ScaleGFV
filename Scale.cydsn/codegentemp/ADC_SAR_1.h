@@ -168,7 +168,7 @@ extern volatile int16 ADC_SAR_1_shift;
 #define ADC_SAR_1_DEFAULT_CONV_MODE      (0u)        /* Default conversion method */
 #define ADC_SAR_1_DEFAULT_INTERNAL_CLK   (1u)             /* Default clock selection */
 #define ADC_SAR_1_DEFAULT_REFERENCE      (2u)         /* Default reference */
-#define ADC_SAR_1_DEFAULT_RANGE          (1u)       /* ADC Input Range selection */
+#define ADC_SAR_1_DEFAULT_RANGE          (0u)       /* ADC Input Range selection */
 #define ADC_SAR_1_CLOCK_FREQUENCY        (1800000u)   /* Clock frequency */
 #define ADC_SAR_1_NOMINAL_CLOCK_FREQ     (1846154)  /* Nominal Clock Frequency */
 #define ADC_SAR_1_HIGH_POWER_PULSE       (1u)        /* Not zero when clock pulse > 50 ns */
@@ -182,7 +182,7 @@ extern volatile int16 ADC_SAR_1_shift;
                                      (CYDEV_VDDA / 2) : \
                                    (((ADC_SAR_1_DEFAULT_REFERENCE != (uint8)ADC_SAR_1__EXT_REF) && \
                                      (ADC_SAR_1_DEFAULT_RANGE == (uint8)ADC_SAR_1__VNEG_VDDA_2_DIFF)) ? \
-                                     CYDEV_VDDA : (2.5)))      /* ADC reference voltage. */
+                                     CYDEV_VDDA : (5)))      /* ADC reference voltage. */
 #define ADC_SAR_1_DEFAULT_REF_VOLTAGE_MV \
                                    (((ADC_SAR_1_DEFAULT_REFERENCE != (uint8)ADC_SAR_1__EXT_REF) && \
                                     ((ADC_SAR_1_DEFAULT_RANGE == (uint8)ADC_SAR_1__VSSA_TO_VDDA) || \
@@ -190,7 +190,7 @@ extern volatile int16 ADC_SAR_1_shift;
                                      (CYDEV_VDDA_MV / 2) : \
                                   (((ADC_SAR_1_DEFAULT_REFERENCE != (uint8)ADC_SAR_1__EXT_REF) && \
                                     (ADC_SAR_1_DEFAULT_RANGE == (uint8)ADC_SAR_1__VNEG_VDDA_2_DIFF)) ? \
-                                     CYDEV_VDDA_MV : (2500)))   /* ADC reference voltage in mV */
+                                     CYDEV_VDDA_MV : (5000)))   /* ADC reference voltage in mV */
 /* The power is set to normal power, 1/2, 1/4 power depend on the clock setting. */
 #define ADC_SAR_1_DEFAULT_POWER \
        ((ADC_SAR_1_NOMINAL_CLOCK_FREQ > (ADC_SAR_1_MAX_FREQUENCY / 4)) ? ADC_SAR_1__HIGHPOWER : \
